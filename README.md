@@ -5,7 +5,7 @@
  
  ## About the App: 
 
-The project is a E-commerce store where you can purchase electronics. It's possible to add and remove products to your cart and calculate the amount spent.
+The project is a E-commerce store where you can purchase electronics. It's possible to ad and remove products to your cart and calculate the amount spent it.
 
 
 ## What technologies are involved?
