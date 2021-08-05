@@ -1,7 +1,7 @@
 ## E-commerce
 
  Live version available here:
- -  [E-commerce App](http://vercel.app)
+ -  [E-commerce App](https://competent-mayer-1fd506.netlify.app/)
  
  ## About the App: 
 
